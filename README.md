@@ -21,7 +21,7 @@ npm is required
 
 Steps
 Clone the Repository
-git clone https://github.com/your-username/nike-website.git  
+git clone https://github.com/mohamedshafid/Nike-Website.git 
 cd nike-website 
 
 Install Dependencies
